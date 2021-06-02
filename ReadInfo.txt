@@ -1,1 +1,3 @@
 This folder contains the shopping page using React JS.
+Make sure that List.js and List.css should be stored inside components folder.
+The files should be executed using npm start command.
