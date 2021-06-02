@@ -1,0 +1,1 @@
+This folder contains the shopping page using React JS.
