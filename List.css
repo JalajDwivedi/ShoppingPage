@@ -1,0 +1,78 @@
+.outer{
+    float:left;
+   
+    background-color:rgb(70,70,70);
+    height: 750px;
+    width:300px;
+   
+    border:solid 2px white;
+}
+li{
+ text-decoration: none; 
+ list-style: none;
+ padding:20px 0px 5px 0px;
+ margin-left: -15px;  
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.inner{
+    background-color:black;
+    height:125px;
+    width:250px;
+    text-align:center;
+    padding:8px;
+    border-radius:15px;
+    position:relative;
+}
+h2{
+    margin-left:30px;
+    color:white;
+
+}
+p{
+    font-size: small;
+    color:white;
+    padding:0px;
+}
+button{
+    background-color:gray;
+    border-radius:2px;
+    text-align: center;    
+}
+.on{
+    color:green;
+    font-size: medium;
+}
+.off{
+    color:red;
+    font-size:medium;
+}
+button:hover{
+    background-color: gold;
+    
+}
+.outer1{
+    background: url("https://thumbs.dreamstime.com/z/lady-fashion-shop-window-clothing-store-front-shopping-mall-view-women-woman-mannequin-retail-147944830.jpg");
+    width:1235px;
+    height:750px;
+    border: white 1px solid;
+    margin-left: 300px;
+    position:absolute;
+    
+}
+.nav{
+    
+    height:50px;
+    width:1535px;
+    text-align:center;
+    color:white;
+    font-size:20px;
+    padding:10px 100px 10px 250px;
+    border: solid 1px white;
+    background-color: black;
+   
+}
+
+
